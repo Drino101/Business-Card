@@ -1,0 +1,27 @@
+.img-profile{
+    width: 150px;
+    margin: 20px;
+}
+.card{
+    
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #c2bbe3;
+    background:#1c114f;
+    width: 400px;
+    margin: 0 auto;
+    border:3px solid #d3cdf1;
+    border-radius: 20px;
+}
+.details{
+    margin: auto;
+    width: 200px;
+    padding: 10px;
+    font-size: 12px;
+}
+.dotted{
+    border: 1px solid white;
+}
